@@ -1,0 +1,456 @@
+Disease,count
+Pain,2274
+Falls,1304
+Diarrhea,776
+Cough,568
+Abscess,555
+Edema,546
+Dysentery,473
+Asthma,438
+Headache,392
+Ache,390
+Fever,388
+Abdominal Pain,370
+Eczema,322
+Amenorrhea,270
+Vomiting,268
+Common Cold,266
+Hepatitis,252
+Hemoptysis,240
+Dysmenorrhea,238
+Malaria,226
+Jaundice,213
+Hematochezia,210
+Constipation,198
+Ulcer,182
+Papule,178
+Scab,161
+Hematuria,138
+Toothache,135
+Hemorrhoids,131
+Arthritis,126
+Diabetes,122
+Epilepsy,118
+Diabetes Mellitus,116
+Dizziness,116
+Carcinoma,112
+Hypertension,98
+Erysipelas,94
+Infection,90
+Bronchitis,90
+Tuberculosis,84
+Ascites,84
+Enteritis,81
+Numbness,79
+Conjunctivitis,78
+Nephritis,76
+Insomnia,76
+Epistaxis,74
+Hemiplegia,70
+Tinnitus,64
+Cholecystitis,60
+Stroke,59
+Dermatitis,58
+Pneumonia,56
+Beriberi,54
+Parotitis,52
+Spasm,50
+Otitis Media,48
+Arthralgia,48
+Ascariasis,47
+Fatigue,46
+Cyst,45
+Anemia,44
+Bone pain,43
+Bone Pain,43
+Cystitis,43
+Abdominal Distention,42
+Goiter,42
+Mastitis,42
+Nausea,42
+Urticaria,42
+Measles,40
+Hemorrhage,40
+Pertussis,39
+Influenza,38
+Enuresis,38
+Hernia,38
+Metrorrhagia,36
+Angina Pectoris,36
+Gastritis,36
+Neuralgia,34
+Urinary tract infection,33
+Chronic Diarrhea,33
+Chronic diarrhea,33
+Dry cough,33
+Psoriasis,32
+Tonsillitis,31
+Infertility,30
+Duodenal Ulcer,28
+Agitation,28
+Dyspnea,28
+Dysuria,28
+Deafness,28
+Laryngitis,28
+Chronic Bronchitis,26
+Paralysis,26
+Inflammation,26
+Oliguria,24
+Asthenia,23
+Amnesia,22
+Rheumatoid Arthritis,22
+Hypodynamia,22
+Angina,21
+Stomatitis,20
+Encephalitis,20
+Gastroenteritis,20
+Neurasthenia,19
+Leprosy,19
+Heart Disease,18
+Pruritus,18
+Rheumatism,18
+Sciatica,18
+Depression,18
+Tinea,17
+Pharyngolaryngitis,17
+Acute conjunctivitis,17
+Dysphagia,17
+Cirrhosis,16
+Oral Ulcer,16
+Anorexia,16
+Retching,16
+Appendicitis,15
+Chest Pain,14
+Gastric ulcer,14
+Convulsions,14
+Blood Pressure,14
+Gastric Ulcer,14
+Coughing,14
+Migraine,14
+Myelitis,14
+Blurred Vision,13
+Blurred vision,13
+Gallstone,13
+Mania,13
+Aphonia,12
+Acute gastroenteritis,12
+Hematemesis,12
+Chronic Hepatitis,12
+Diphtheria,12
+Blindness,12
+Restlessness,12
+Emaciation,12
+Vertigo,12
+Poliomyelitis,12
+Cholera,12
+Trichomoniasis,12
+Tinea Capitis,11
+Neurodermatitis,11
+Ancylostomiasis,10
+Rhinitis,10
+Thrombosis,10
+Erythema,10
+Septicemia,10
+Mumps,9
+Epigastric pain,9
+Syphilis,9
+Epigastric Pain,9
+Acute tonsillitis,9
+Photophobia,8
+Skin Diseases,8
+Nausea And Vomiting,8
+Hypercholesterolemia,8
+Atherosclerosis,8
+Coronary heart disease,8
+Coronary Heart Disease,8
+Arrhythmia,8
+Thrombophlebitis,8
+Ileus,8
+Purpura,8
+Nausea and vomiting,8
+Tenesmus,7
+"Hepatitis, Chronic",7
+Sore Throat,7
+Anesthesia,7
+Cancer,7
+Chronic cough,7
+Contracture,7
+Pain in limb,7
+Bronchial Asthma,6
+Gingivitis,6
+Back Pain,6
+leukemia,6
+Chronic gastritis,6
+Tremor,6
+Meningitis,6
+Periodontitis,6
+Tetany,6
+Chills,6
+Coma,6
+Alopecia Areata,6
+Irritability,6
+Muscle Weakness,6
+Alopecia,6
+Splenomegaly,6
+Schizophrenia,6
+Lithiasis,6
+Sinusitis,6
+Drooling,6
+Skin Ulcer,6
+Sarcoma,6
+Ischemia,6
+Bone Tuberculosis,6
+Acute hepatitis,5
+Facial Paralysis,5
+Food Poisoning,5
+Sclerosis,5
+Thromboangiitis Obliterans,5
+Lupus,5
+Infectious Disease,5
+Regurgitation,5
+Urolithiasis,5
+Pharyngitis,5
+Acute Hepatitis,5
+heart rate,5
+Manic,5
+Abdominal Colic,5
+Hoarseness,5
+Facial paralysis,5
+Abdominal colic,5
+Cardiovascular Diseases,4
+Analgesics,4
+Premature Ejaculation,4
+Anxiety,4
+Eye Diseases,4
+Influenza A,4
+Urethritis,4
+Carcinoma of lung,4
+Leptospirosis,4
+Malnutrition,4
+Dementia,4
+"Bronchitis, Chronic",4
+Stupor,4
+Icterus,4
+Bronchospasm,4
+Periostitis,4
+Colitis,4
+Ptosis,4
+Hyperplasia,4
+Globus Hystericus,4
+Cerebral Thrombosis,4
+Elephantiasis,4
+Vascular Diseases,4
+Acne,4
+Osteomyelitis,4
+Vaginitis,4
+Peptic Ulcer,4
+Viral hepatitis,4
+Hyperactivity,4
+Urinary Incontinence,4
+Keratitis,4
+Allergic Rhinitis,4
+Lymphoma,4
+Viral Hepatitis,4
+Macule,4
+Glomerulonephritis,4
+Acute bronchitis,4
+Rigidity,4
+Tachycardia,3
+Phlegmon,3
+Lung Abscess,3
+Acute mastitis,3
+Hydrothorax,3
+Forgetful,3
+Rubella,3
+Local Anesthesia,3
+Chronic malaria,3
+Acute Cholecystitis,3
+Shock,3
+Filariasis,3
+Scurvy,2
+Fatty Liver,2
+Loss of speech,2
+Loose stool,2
+Impetigo,2
+Chronic constipation,2
+Palpitations,2
+Incontinence,2
+Hypothyroidism,2
+Acute otitis media,2
+Excessive drinking,2
+Neuritis,2
+Nocturia,2
+Osteomalacia,2
+Loss Of Speech,2
+Leukopenia,2
+Eye pain,2
+Hepatitis B,2
+Spastic,2
+Pancreatitis,2
+Ulcerative Colitis,2
+Cataract,2
+Cor pulmonale,2
+Chronic anemia,2
+Poor Appetite,2
+Melancholia,2
+Allergic Conjunctivitis,2
+Acute Otitis Media,2
+Muscle Spasm,2
+Pleuritis,2
+Myocardial Infarction,2
+Cerebral Ischemia,2
+Atrophic,2
+Protracted diarrhea,2
+Corneal Opacity,2
+Abdominal Mass,2
+Pulmonary Edema,2
+Protracted Diarrhea,2
+Myositis,2
+Cholangitis,2
+Ankylosis,2
+Osteoarthritis,2
+Lupus Erythematosus,2
+Leukaemia,2
+Frigidity,2
+Lymphangitis,2
+Thrombocytopenia,2
+Abdominal mass,2
+Cardiac Arrest,2
+Fibrillation,2
+Chronic Constipation,2
+Necrosis,2
+Rickets,2
+Anasarca,2
+Chronic cholecystitis,2
+Vertex Headache,2
+Heart Block,2
+Myalgia,2
+Blepharitis,2
+Pterygium,2
+Anoxia,2
+Osteoma,2
+Common wart,2
+Typhoid Fever,2
+Myocardial Ischemia,2
+Sepsis,2
+Pharyngeal Carcinoma,2
+Hypotension,2
+Nasopharyngeal carcinoma,2
+Milia,2
+Leukoplakia,2
+Retinitis,2
+Respiratory Paralysis,2
+Chronic ulcer,2
+Lymphadenitis,2
+Poroma,2
+Osteoporosis,2
+Atrial Fibrillation,2
+Peritonitis,2
+Epileptic Spasms,2
+Endometritis,1
+Laryngeal Carcinoma,1
+prostatitis,1
+Systremma,1
+Folic Acid Deficiency,1
+Chronic viral hepatitis,1
+Flatulence,1
+Knee pain,1
+Chronic liver disease,1
+Incarcerated hernia,1
+Subcutaneous infection,1
+Liver diseases,1
+Liver Diseases,1
+Radiation Sickness,1
+Supraventricular Tachycardia,1
+Recurrent,1
+Hyperemia,1
+Ovarian Carcinoma,1
+Acute Pancreatitis,1
+Paroxysmal Supraventricular Tachycardia,1
+Ventricular Tachycardia,1
+Renal hypertension,1
+Acute leukemia,1
+Silicosis,1
+Chronic tonsillitis,1
+Heart Diseases,1
+Hay fever,1
+Peripheral Arterial Disease,1
+Acute monocytic leukemia,1
+Lobar Pneumonia,1
+Dermatomyositis,1
+Prostatitis,1
+Nephropathy,1
+Chronic glomerulonephritis,1
+Gingival Bleeding,1
+Hemolytic disorder,1
+Chronic cervicitis,1
+Hypertrophic rhinitis,1
+Aortitis,1
+Purulent discharge,1
+Acute eczema,1
+Peripheral Arterial Diseases,1
+Renal Colic,1
+Anger,1
+Trachoma,1
+Infection in children,1
+Supraventricular tachycardia,1
+Subcutaneous nodule,1
+Endocarditis,1
+Acute peritonitis,1
+Oral pain,1
+Ileitis,1
+Paroxysmal supraventricular tachycardia,1
+Arsenic Poisoning,1
+Dyspepsia,1
+skin irritant,1
+Hemicrania,1
+Myoma,1
+Bladder pain,1
+Adenitis,1
+Blastoma,1
+Acute infectious disease,1
+"Edema, Cardiac",1
+Hysteromyoma,1
+Candida Vaginitis,1
+Hoarse Voice,1
+Cerebrovascular Insufficiency,1
+Monocytic leukemia,1
+Chronic osteomyelitis,1
+Furunculosis,1
+Upper Respiratory Infection,1
+Aura,1
+Keshan disease,1
+Salpingitis,1
+Acute myocardial infarction,1
+Chronic pain,1
+Thrombocytopenic purpura,1
+Infective dermatitis,1
+"Abdomen, Acute",1
+Acute pancreatitis,1
+Gall Bladder Diseases,1
+Chronic Urticaria,1
+Multi-infarct dementia,1
+Tic disorder,1
+Cerebral Atherosclerosis,1
+Rheumatic Heart Disease,1
+Hepatitis A,1
+Nodule,1
+Carditis,1
+Vascular Headache,1
+Chronic endometritis,1
+Favism,1
+Vasoconstriction,1
+"Dysentery, Bacillary",1
+Chronic urticaria,1
+Trigeminal Neuralgia,1
+Pemphigus,1
+Psychosis,1
+Hunger,1
+Loss Of Consciousness,1
+Infarction,1
+Chronic Pain,1
+Gastrointestinal ulcer,1
+Acute arthritis,1
+Intermittent Claudication,1
+Senile dementia,1
+Acute diarrhea,1
