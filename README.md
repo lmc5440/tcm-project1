@@ -54,12 +54,9 @@ This project investigates the relationship between COVID-19 new deaths and vacci
 
 ## Project Files
 
-* `Project 1.pdf`: Project requirements document.
-* `Presentation 1.pdf`: Project presentation slides.
-* `Accounts.py`: Contains the `Account` class.
-* `savings_account.py`:  Contains the `create_savings_account` function.
-* `cd_account.py`: Contains the `create_cd_account` function.
-* `customer_banking.py`: Main program file.
+# tcm-project1
+
+[Google Slides Presentation](https://docs.google.com/presentation/d/1IpMftFHOCgYhkIwUz5A-0It0g4CQZYHFCIQwcNhRukQ/edit#slide=id.g315f01fec7a_0_427)
 
 
 ## Future Development
