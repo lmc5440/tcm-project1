@@ -2,11 +2,14 @@
 
 ## Project Overview
 
-This project investigates the relationship between COVID-19 new deaths and vaccination rates across four countries: the United States, India, Germany, and Indonesia.  The primary goal is to determine if higher vaccination rates correlate with lower mortality rates, providing insights for future pandemic preparedness.  
+Our team conducted a comprehensive analysis investigating the relationship between COVID-19 mortality rates and vaccination implementation. We strategically selected four countries for our study: the United States, Germany, India, and Indonesia, allowing us to examine the impact across varying healthcare infrastructures and population densities.
 
---- 
-## PRESENTATION DESCRIPT
-"The purpose is to investigate the relationship between COVID-19 new deaths and vaccination rates in four countries: the United States, India, Germany, and Indonesia. The study collects useful data and employs statistical analysis to determine whether lower mortality rates are connected with higher vaccination rates."
+In our analysis, we focused on comparing pre-vaccination data (through December 31, 2020) with post-vaccination periods (January 1, 2021 - June 1, 2021). Using statistical methods and data visualization, we discovered compelling correlations between vaccination rates and mortality rates.
+
+Our key findings revealed strong negative correlations between vaccination implementation and death rates in most of our studied countries. We found correlation coefficients of -0.583 for the United States, -0.523 for Germany, and -0.594 for Indonesia. Notably, India showed a divergent pattern with a positive correlation of 0.432, which we attribute to its unique challenges with population density and healthcare infrastructure constraints.
+
+Through our statistical analysis, we demonstrated that countries with robust healthcare systems (the United States and Germany) achieved more effective vaccination programs and faster reductions in mortality rates. Conversely, we observed that nations with higher population densities and limited healthcare infrastructure (India and Indonesia) faced more significant challenges in their vaccination implementation.  
+
 
 ## Goals [from presentation] 
 
@@ -170,11 +173,30 @@ Global Variances: Because of variables including population density, healthcare 
 
 (Provide instructions on how to run your code, if applicable.  Specify any dependencies or required libraries.)
 
-## Project Files
+## Project Files & Resources 
 
-# tcm-project1
+- [Google Slides Presentation](https://docs.google.com/presentation/d/1IpMftFHOCgYhkIwUz5A-0It0g4CQZYHFCIQwcNhRukQ/edit#slide=id.g315f01fec7a_0_427)
+- https://github.com/lmc5440/tcm-project1/blob/3fa3f97102e816cf775aa793dc650569128ef428/Resources/country_vaccinations.csv
+- https://github.com/lmc5440/tcm-project1/blob/3fa3f97102e816cf775aa793dc650569128ef428/Resources/owid-covid-data.csv
+- https://github.com/lmc5440/tcm-project1/blob/3fa3f97102e816cf775aa793dc650569128ef428/analysis.ipynb
 
-[Google Slides Presentation](https://docs.google.com/presentation/d/1IpMftFHOCgYhkIwUz5A-0It0g4CQZYHFCIQwcNhRukQ/edit#slide=id.g315f01fec7a_0_427)
+## Project Primary Resources 
+
+1. COVID-19 World Vaccination Progress
+   - Source: Kaggle
+   - URL: https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress
+   - File Used: country_vaccinations.csv
+   - Access Date: 2021
+
+2. Our World in Data COVID-19 Dataset
+   - Source: Kaggle/OWID
+   - URL: https://www.kaggle.com/datasets/owid/covid-19-data
+   - File Used: owid-covid-data.csv
+   - Access Date: 2021
+
+All data processing steps and methodology can be found in our analysis.ipynb file. The complete analysis and visualization code is available in our GitHub repository.
+
+For questions about our data sources or methodology, please open an issue in our GitHub repository.
 
 
 ## Future Development
