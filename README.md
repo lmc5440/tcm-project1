@@ -205,4 +205,124 @@ For questions about our data sources or methodology, please open an issue in our
 
 ## Acknowledgements
 
+-- 
 
+# draftreadme  
+
+# COVID-19 Vaccination Impact Analysis
+*A Data Analysis Project by Ser Yoon, Lauren Christiansen, CJ Fleming, Dhwani Patel*
+
+## Project Overview
+Our team investigated the relationship between COVID-19 mortality rates and vaccination implementation across four strategically selected countries. We analyzed pre-vaccination (through December 31, 2020) and post-vaccination periods (January 1, 2021 - June 1, 2021) to understand the impact of vaccination programs on mortality rates.
+
+### Key Findings
+- Strong negative correlations between vaccination rates and death rates in developed nations
+- Significant variations in vaccination program effectiveness based on healthcare infrastructure
+- Statistical evidence supporting vaccine efficacy in reducing mortality rates
+
+## Installation & Usage
+
+### Prerequisites
+- Python 3.x
+- pandas
+- matplotlib
+- Jupyter Notebook
+
+### Setup
+1. Clone the repository:
+```bash
+git clone https://github.com/lmc5440/tcm-project1.git
+cd tcm-project1
+```
+
+2. Install required packages:
+```bash
+pip install pandas matplotlib jupyter
+```
+
+3. Launch Jupyter Notebook:
+```bash
+jupyter notebook analysis.ipynb
+```
+
+## Analysis Results
+
+### Statistical Findings
+We discovered significant correlations between vaccination rates and death rates:
+- United States: -0.583
+- Germany: -0.523
+- Indonesia: -0.594
+- India: +0.432
+
+### Key Visualizations
+Our analysis includes eight detailed visualizations:
+1. Pre-vaccination death rates by country
+2. Post-vaccination death rates by country
+3. Daily vaccination rates comparison
+4. Country-specific mortality trends
+   - USA trends
+   - Germany trends
+   - India trends
+   - Indonesia trends
+
+## Data Sources
+```
+1. COVID-19 World Vaccination Progress
+   Source: Kaggle
+   File: country_vaccinations.csv
+
+2. Our World in Data COVID-19 Dataset
+   Source: Kaggle/OWID
+   File: owid-covid-data.csv
+
+3. World Population Data
+   Source: Worldometer
+```
+
+## Methodology
+1. Data Collection & Cleaning
+   - Merged vaccination and mortality datasets
+   - Removed null values
+   - Standardized date formats
+   - Created country-specific dataframes
+
+2. Analysis Approach
+   - Time series analysis
+   - Correlation studies
+   - Statistical summaries
+   - Comparative analysis
+
+## Summary of Findings
+Our analysis revealed that countries with robust healthcare infrastructure demonstrated more effective vaccination programs and faster mortality rate reductions. The data shows a clear negative correlation between vaccination rates and death rates in most studied countries, with correlation coefficients averaging around -0.55 for developed nations.
+
+### Impact
+These findings provide valuable insights for:
+- Healthcare policy development
+- Pandemic preparedness planning
+- Resource allocation strategies
+- International cooperation frameworks
+
+## Repository Structure
+```
+tcm-project1/
+│
+├── analysis.ipynb          # Main analysis notebook
+├── Resources/
+│   ├── country_vaccinations.csv
+│   └── owid-covid-data.csv
+├── Presentation/
+│   └── COVID19_Analysis.pdf
+└── README.md
+```
+
+## Contributors
+- Ser Yoon
+- Lauren Christiansen
+- CJ Fleming
+- Dhwani Patel
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+*For questions or feedback, please open an issue in our GitHub repository.*
