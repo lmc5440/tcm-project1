@@ -89,7 +89,7 @@ Analysis shows:
 - Healthcare system capacity indicators
 
 2. Post-vaccination Death Rates by Country
-![COVID Deaths in India After Vaccine](images/covid%20deaths%20in%20india%20after%20vaccine.png)
+![COVID Deaths in India After Vaccine](Images/covid%20deaths%20in%20india%20after%20vaccine.png)
 ![COVID Deaths in Germany After Vaccine](Images/covid%20deaths%20in%20germany%20after%20vaccine.png)
 ![COVID Deaths in Indonesia After Vaccine](Images/covid%20deaths%20indonesia%20after%20vaccine.png)
 ![USA After Vaccine Deaths](Images/usa%20after%20vaccine%20deaths.png)
@@ -110,9 +110,9 @@ Demonstrates:
 
 4. Country-Specific Analysis
 ![COVID Deaths USA Prior to Vaccine](Images/covid%20deaths%20usa%20prior%20to%20vaccine.png)
-![Indonesia Before Vaccine](Images/indonesia%20before%20vaccine.png)
+![COVID Deaths in Indonesia After Vaccine](Images/covid%20deaths%20indonesia%20after%20vaccine.png)
 ![COVID Deaths Before India Vaccine](Images/covid%20deaths%20before%20india%20vaccine.png)
-
+![COVID Deaths in Germany Before Vaccine](Images/covid%20deaths%20in%20germany%20before%20vaccine.png)
 
 - USA Trends: Rapid implementation, strong infrastructure impact
 - Germany Trends: Efficient distribution, consistent results
