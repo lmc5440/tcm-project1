@@ -80,6 +80,7 @@ We discovered significant correlations between vaccination rates and death rates
 Our analysis includes eight detailed visualizations, each addressing specific research questions:
 
 1. Pre-vaccination Death Rates by Country
+   
 ![COVID Deaths After Vaccinations](Images/covid%20deaths%20after%20vaccinations.png)
 
 Analysis shows:
@@ -89,6 +90,7 @@ Analysis shows:
 - Healthcare system capacity indicators
 
 2. Post-vaccination Death Rates by Country
+   
 ![COVID Deaths in India After Vaccine](Images/covid%20deaths%20in%20india%20after%20vaccine.png)
 ![COVID Deaths in Germany After Vaccine](Images/covid%20deaths%20in%20germany%20after%20vaccine.png)
 ![COVID Deaths in Indonesia After Vaccine](Images/covid%20deaths%20indonesia%20after%20vaccine.png)
@@ -101,6 +103,7 @@ Key findings:
 - Population density effects
 
 3. Daily Vaccination Implementation Rates
+   
 ![Number of COVID Vaccinations](Images/number%20of%20covid%20vaccinations.png)
 Demonstrates:
 - Vaccination program efficiency
@@ -109,7 +112,8 @@ Demonstrates:
 - Resource allocation effectiveness
 
 4. Country-Specific Analysis
-![COVID Deaths USA Prior to Vaccine](Images/covid%20deaths%20usa%20prior%20to%20vaccine.png)
+   
+![USA After Vaccine Deaths](Images/usa%20after%20vaccine%20deaths.png)
 ![COVID Deaths in Indonesia After Vaccine](Images/covid%20deaths%20indonesia%20after%20vaccine.png)
 ![COVID Deaths Before India Vaccine](Images/covid%20deaths%20before%20india%20vaccine.png)
 ![COVID Deaths in Germany Before Vaccine](Images/covid%20deaths%20in%20germany%20before%20vaccine.png)
